@@ -19,10 +19,10 @@ In code folder
 - best_model.py --> contains the best saved model and influence of confounding variable steps
 - web_app.py --> web application
 
-#### Standardization package 
+#### Standardization pickle file 
 scaler.pkl
 
-#### best saved model package
+#### best saved model pickle file
 xgboost_ros_model.pkl
 
 #### Technical Report
