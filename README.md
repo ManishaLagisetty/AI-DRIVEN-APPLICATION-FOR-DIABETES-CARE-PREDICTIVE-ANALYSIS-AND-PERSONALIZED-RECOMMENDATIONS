@@ -1,5 +1,8 @@
 # AI-Driven-Application-For-Diabetes-Care: Predictive-Analayis-and-Personalized-Recommendations
 
+![image](https://github.com/ManishaLagisetty/AI-Driven-Application-For-Diabetes-Care_Predictive-Analyis-and-Personalized-Recommendations/assets/147951099/fd93fcd7-030d-4ae8-8f2b-11f9d7c8b2c7)
+
+
 ## Description
 This project focuses on predicting diabetes using machine learning techniques. It includes data collection, preprocessing, model development, evaluation and real-time user-friendly interface.
 
